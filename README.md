@@ -8,7 +8,8 @@ Three years ago, armed with a diploma in computer sorcery, I embarked on a whims
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [akpagodswill2@outlook.com](mailto:akpagodswill2@outlook.com)
-* 🧠  I'm learning React Native
+* 💻  Here is my portfolio [Godswill Profile](https://godswillportfolio-mu.vercel.app/)
+* 🧠  I'm Currently learning Backend Development
 * 🤝  I'm open to collaborating on Interesting project using react native and typescript
 * ⚡  I also design ui using figma and adobe xd 😁
 
